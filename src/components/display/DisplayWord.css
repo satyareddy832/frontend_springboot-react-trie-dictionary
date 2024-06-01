@@ -1,0 +1,52 @@
+.card{
+    text-align: left;
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+    margin-left: 37%;
+    margin-top: 20px;
+    background-color: rgba(250, 221, 226, 0.906);
+    border: 7px solid white;
+    border-radius: 8px;
+    box-shadow: 0 0 8px #323232;
+}
+
+
+#heading{
+    color: brown;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#word{
+    color: brown;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+#phonetic{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(189, 58, 58);
+}
+
+#parts-of-speech{
+    color: rgb(241, 145, 145);
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+#meaning{
+    margin-left: 20px;
+    color: #323232;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#example{
+    margin-left: 33px;
+    color: #6d6c6c;
+    font-size: 16px;
+    font-weight: 400;
+}
